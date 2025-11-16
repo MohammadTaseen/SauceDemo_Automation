@@ -12,7 +12,7 @@ An automated test suite built with Playwright and JavaScript to validate core wo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/MohammadTaseen/SauceDemo_Automation.git
 cd YOUR_REPO_NAME
 ```
 2. Install dependencies:
